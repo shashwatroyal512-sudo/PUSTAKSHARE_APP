@@ -1,0 +1,6 @@
+{
+  "name": "Book Share",
+  "description": "An online book-sharing platform where users can lend, search, and borrow books locally. Connect with book owners to pick up physical books.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
